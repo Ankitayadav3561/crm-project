@@ -14,8 +14,8 @@ PHP + MySQL based CRM demo project with login and user management.
 5. Browser mein `localhost/crm-project/public/login.php` kholo.
 
 ## Demo Login
-Username: (yahan apna demo username likho)
-Password: (yahan apna demo password likho)
+Username: admin
+Password: demo1234
 
 ## Tech Stack
 PHP, MySQL, HTML, CSS, JavaScript
