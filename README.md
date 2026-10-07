@@ -14,7 +14,7 @@ PHP + MySQL based CRM demo project with login and user management.
 5. Browser mein `localhost/crm/public/login.php` kholo.
 
 ## Demo Login
-Email: admin@gmail.com
+Email: admin@crm.com
 Password: admin@12345
 
 ## Tech Stack
